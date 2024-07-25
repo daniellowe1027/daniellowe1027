@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Magic Dev's profile 👋</h1>
+<h1 align="center">Welcome to Daniel's profile 👋</h1>
 <h3 align="center">A Principal Software Engineer</h3>
 
 - 😎 Interested in contributing expertise in web2 and web3 development
