@@ -5,8 +5,8 @@
 
 - 👯 Looking to collaborate on **Innovative Projects**
 
-- 👨‍💻 Enjoy contributing to Open Source Projects and eager to learn new technologies. 
+- 👨‍💻 Enjoy contributing to Open Source Projects and eager to learn new technologies 
 
-- 📚 Love reading books on personal development & financial literacy. 
+- 📚 Love reading books on personal development & financial literacy 
 
-- ⚡ Quotes: *What you do today can improve all of your tomorrows.*
+- ⚡ Quotes: *What you do today can improve all of your tomorrows*
